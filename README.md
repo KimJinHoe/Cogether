@@ -23,14 +23,20 @@
     - 로그인 및 회원 기능
     - 팔로우
     - 게시글 뉴스피드(SNS) 및 댓글
+    - 프로젝트/스터디 구인
     - DM 채팅
     - 경쟁모드(공부타이머) 및 협력모드(단체채팅, 문제해결)
     - 랭킹 및 경험치 시스템
 
 ## 2. 역할분담
-- 참여인원: 5명 (김진회[팀장], 고나령, 박홍철, 신성은, 유지연)
-- 담당파트: 
-    - 
+- 참여인원: 5명 (FE: 김진회, 박홍철 | BE: 고나령, 신성은, 유지연)
+- 담당파트: 팀장, 프론트(Vue3) [70%]
+    - DM 채팅
+    - 프로젝트/스터디 구인
+    - 경쟁모드 및 협력모드(단체채팅)
+    - 랭킹 페이지
+    - 전체 디자인 수정
+
 ## 3. 산출물
 ### 1) 서비스 아키텍쳐 구조
 <img src="https://user-images.githubusercontent.com/63358647/202705516-dadab76b-8d65-4f9e-8a1e-7c629d3629bc.JPG" width="70%" height="70%"/><br>
@@ -46,12 +52,14 @@
 
 
 ## 4. 기술스택
-<img src="" width="50%" height="50%"/><br>
 - 백엔드
-    - 
+    - Java, Spring, JPA, JWT, amazon S3, MySQL, Stomp 
 - 프론트
-    - 
-
+    - Vue3, Sock.js, Stomp, HTML, CSS, JS, Bootstrap, SweetAlert2
+- CI/CD
+    - AWS EC2, Nginx, mobaXterm
+- 협업툴
+    - 노션, 피그마, 깃랩, 지라, ERDcloud
 ## 5. 시연영상
 - <a href="https://www.youtube.com/watch?v=CAdFhVhvNr4">바로가기</a>
 
