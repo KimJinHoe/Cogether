@@ -1,5 +1,5 @@
 # 💻 COGETHER
-<img src="" width="50%" height="50%"/>
+<img src="https://user-images.githubusercontent.com/63358647/202706327-579059c0-f1f7-4b3f-a20c-708e460431b1.JPG" width="70%" height="70%"/>
 
 ## 0. 프로젝트 소개
 - 소개 : 코게더는 주니어 개발자를 위한 SNS 플랫폼입니다.
@@ -32,15 +32,17 @@
 - 담당파트: 
     - 
 ## 3. 산출물
-### 서비스 아키텍쳐 구조
-<img src="" width="50%" height="50%"/><br>
+### 1) 서비스 아키텍쳐 구조
+<img src="https://user-images.githubusercontent.com/63358647/202705516-dadab76b-8d65-4f9e-8a1e-7c629d3629bc.JPG" width="70%" height="70%"/><br>
 
-### API 명세서
-<img src="" width="50%" height="50%"/><br>
+### 2) API 명세서
+<img src="https://user-images.githubusercontent.com/63358647/202705545-b419c326-2826-4173-89d6-75b4ff657b0d.png" width="50%" height="50%"/><br>
 
-### ERD
-<img src="" width="50%" height="50%"/><br>
+### 3) ERD
+<img src="https://user-images.githubusercontent.com/63358647/202705554-e495f7cd-a1d9-4e5d-8c6f-6d56f6a9e47c.png" width="50%" height="50%"/><br>
 
+### 4) 와이어프레임
+<img src="https://user-images.githubusercontent.com/63358647/202705522-3274fd6b-e29c-4baa-bd83-6320fa61a5e2.JPG" width="50%" height="50%"/><br>
 
 
 ## 4. 기술스택
@@ -51,7 +53,7 @@
     - 
 
 ## 5. 시연영상
-- <a href="">바로가기</a>
+- <a href="https://www.youtube.com/watch?v=CAdFhVhvNr4">바로가기</a>
 
 ## 6. 회고
 ```
